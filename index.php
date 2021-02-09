@@ -14,7 +14,7 @@ include "db_connect.php";
 
     <body>
 
-	<center><h1>Example of Database Application</h1>
+	<center><h1>Ex of Database Application</h1>
 
     <a href="add.php">Add New</a>
 
